@@ -1,0 +1,2 @@
+rootProject.name='YamlApp'
+include ':app'
