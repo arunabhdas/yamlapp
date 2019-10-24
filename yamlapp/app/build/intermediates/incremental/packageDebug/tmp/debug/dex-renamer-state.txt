@@ -1,0 +1,4 @@
+#Thu Oct 24 06:17:24 EDT 2019
+base.0=/Users/das/repos/ad/githubrepos/yamlapp/yamlapp/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
